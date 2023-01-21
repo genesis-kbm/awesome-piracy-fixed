@@ -349,7 +349,7 @@ for any IP address.
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 #### Public Trackers
-- [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
+- [x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
 - [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
@@ -1090,7 +1090,7 @@ premium services
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
 -   [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - The best place for softwares (of all kinds). Need an account to search; signup is free
-- ![[qbittorrent.svg]] [1337x.to](https://1337x.to/) - Well-moderated torrent site.
+- ![](qbittorrent.svg) [1337x.to](https://1337x.to/) - Well-moderated torrent site.
 -   [torrents] [FTUApps](https://ftuapps.dev/) - Part of the FTU network. Can get variety of softwares here
 -   [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software. Selection is lacking compared to other sources though
 -   [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
