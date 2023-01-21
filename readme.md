@@ -192,6 +192,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 
+### Graphic Design Extensions
+- Enable Right Click & Copy
+
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
 - [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
@@ -254,6 +257,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
 - [Tutanota](https://tutanota.com/) Secure, open source email service
+
+### Temporary Email
+- Uroid ssss
 
 ## Decentralised Networks
 - [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
@@ -1081,24 +1087,31 @@ premium services
 - [forked-daapd](https://ejurgensen.github.io/forked-daapd/) Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 
 ## Software
-- [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [nsane.down](https://www.nsanedown.com/) A popular file-sharing forum focused on software
-- [CrackingPatching.com](https://crackingpatching.com/) Cracked software
-- [Appked](https://www.macbed.com/) Mac application sharing site
-- [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
-- [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
-- [Nulled](https://www.nulled.to/) Nulled is a cracking community where you can find links to cracked software
-- [/s/sjain_guides](https://saidit.net/s/sjain_guides) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
-- [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
-- [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
-- [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
+Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
+
+-   [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - The best place for softwares (of all kinds). Need an account to search; signup is free
+- ![[qbittorrent.svg]] [1337x.to](https://1337x.to/) - Well-moderated torrent site.
+-   [torrents] [FTUApps](https://ftuapps.dev/) - Part of the FTU network. Can get variety of softwares here
+-   [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software. Selection is lacking compared to other sources though
+-   [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
+-   [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad
+-   [DDL] [Mobilism > Windows Warez](https://forum.mobilism.org/viewforum.php?f=1073) - Warez board
+-   [DDL] [lrepacks.ru](https://lrepacks.ru/) - Software repacks
+-   [DDL] [repack.me](https://repack.me/) - Software repacks
+-   [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts
+-   [DDL] [forum.ru-board.com > Warez](http://forum.ru-board.com/forum.cgi?forum=35) - Warez subforum at ru-board
+-   [DDL] [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular Warez forum with request subsections.
+-   [Mac] [MacBB.org](https://macbb.org/) - Mac apps bulletin board
+-   [Mac] [macserialjunkie.com/forum](https://www.macserialjunkie.com/forum/) (aka MSJ) - Mac apps bulletin board
+-   [Mac] [macappdownload.com](https://www.macappdownload.com/) - aka Macbed/Appked
+-   [Mac] [nxmac.com](https://nxmac.com/) - Popular DDL site for mac apps and games
+-   [Mac] [Macdrop.net/CMacked](https://cmacked.com/) - Mac apps and games
+-   [DDL] [forums.mydigitallife.net](https://forums.mydigitallife.net/) - Software release board
+-   [DDL] [aiowares.com](https://www.aiowares.com/) - Software release board
+-   [DDL] [nsaneforums.com](https://www.nsaneforums.com/) - Software release board
 
 ### Adobe CC
-- [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
-- [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
-- [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
-- [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
-- [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
+- [monkrus.ws](http://monkrus.ws/) The only place you will ever need to get Adobe and Autodesk programs. Highly recommended and trusted repacker. All programs already activated, without manual cracking. Very easy to use and direct-to-the-point, plus torrents with maximum download speed.
 
 ### Windows
 - [/f/MSToolkit](https://raddle.me/f/MSToolkit) Tools for activating Windows software, including Windows 10 itself.
